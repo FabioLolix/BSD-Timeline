@@ -1,0 +1,10 @@
+BERKELEY SOFTWARE DISTRIBUTION TIMELINE | ToDo
+================================
+
+http://en.wikipedia.org/wiki/List_of_BSD_operating_systems
+http://www.levenez.com/unix/
+
+Collect icons for all distributions
+
+Change to .tar.gz (faster and lower memory usage at decompression)?
+Change to .tar.xz (better compression, new standard)?
