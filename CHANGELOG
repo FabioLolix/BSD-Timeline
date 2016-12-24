@@ -3,7 +3,8 @@ Berkeley Software Distribution Timeline | CHANGELOG
 
 Next (TBD)
 * Total:
-* Added: release versions for NetBSD, OpenBSD, FreeBSD, DragonflyBSD
+* Added: release versions for NetBSD, OpenBSD, FreeBSD, DragonflyBSD, PC-BSD
+* Renamed: PC-BSD to TrueOS
 * Works best with gnuclad 0.2.4
 * When using LibreOffice Calc, turn on "quoted field as text"
 
