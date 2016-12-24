@@ -3,6 +3,7 @@ Berkeley Software Distribution Timeline | CHANGELOG
 
 Next (TBD)
 * Total:
+* Added: GhostBSD
 * Added: release versions for NetBSD, OpenBSD, FreeBSD, DragonflyBSD, PC-BSD
 * Renamed: PC-BSD to TrueOS
 * Discontinued: m0n0wall, DesktopBSD
