@@ -1,0 +1,4 @@
+*.svg
+bsdt*.png
+.~lock.bsdt.csv#
+DIST_bsdt

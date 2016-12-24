@@ -15,7 +15,7 @@
 PROJNAME='bsdt'
 
 # Which files to include into the archive
-DISTFILES='bsdt.csv bsdt.conf ToDo ChangeLog README LICENSE images build.sh'
+DISTFILES='bsdt.csv bsdt.conf build.sh CHANGELOG CONTRIBUTING LICENSE README.md TODO images'
 
 # Custom path to gnuclad (leave empty if you already installed it in your PATH)
 GC=
