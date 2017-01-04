@@ -1,22 +1,18 @@
 Berkeley Software Distribution Timeline | README
-==================================
+------------------------------------------------
 
+* Copyright (C) 2010 Donjan Rodic
+* Copyright (C) 2016-2017 Fabio Loli
 
 Released under a BSD 2-clause like license as found in the LICENSE file
 
-* Copyright (C) 2010 Donjan Rodic
-
-* Copyright (C) 2016 Fabio Loli
-
-
-Original source:
-
-http://futurist.se/gldt/2010/09/20/bsd-timeline-up-for-grabs/
-
-
-The most recent version can be found at:
+Original source: http://futurist.se/gldt/2010/09/20/bsd-timeline-up-for-grabs/
 
 https://github.com/FabioLolix/BSD-timeline
+
+##CONTRIBUTING
+
+See CONTRIBUTING
 
 #### Installation
 
