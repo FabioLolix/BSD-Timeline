@@ -1,8 +1,18 @@
 Berkeley Software Distribution Timeline | NOTE
 ==============================================
 
-
 #Release version
+
+Fugulta
+=======
+Email from Y. K.
+
+> "CD-OpenBSD 3.6" was released at 21-Feb-2005.
+> It was based on OpenBSD 3.6 .
+>
+> Then it was renamed as "FuguIta 4.0" at 25-Oct-2006.
+>
+>See http://mirror.ginzado.ne.jp/pub/FuguIta/old/
 
 MidnightBSD
 ============
@@ -41,4 +51,3 @@ pfSense
 2.3     2016.04.13      https://doc.pfsense.org/index.php?title=2.3_New_Features_and_Changes
 2.3.1   2016.05.19      https://blog.pfsense.org/?p=2050
 2.3.2   2016.07.26      https://blog.pfsense.org/?p=2108
-

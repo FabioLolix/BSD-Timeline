@@ -14,16 +14,20 @@ Change to .tar.xz (better compression, new standard)?
 Add:
 ====
 
-Fugulta
-MirOS BSD
 BSD Router Project
-
 NextBSD
 LibertyBSD
 JabirBSD
 HardenedBSD
 
-m0n0wall fork:
-==============
-    t1n1wall    http://t1n1wall.com/
-    smallwall   http://smallwall.org/
+
+based on m0n0wall
+=================
+
+t1n1wall                            http://t1n1wall.com/                    #218a21
+smallwall   (waiting reply)         http://smallwall.org/                   #521ebb
+
+
+based on OpenBSD
+================
+MirOS BSD   (waiting reply)         https://www.mirbsd.org/                 #42c754
