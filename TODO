@@ -14,12 +14,14 @@ Change to .tar.xz (better compression, new standard)?
 Add:
 ====
 
-NextBSD
-LibertyBSD
-JabirBSD
-HardenedBSD
 
-
-based on OpenBSD
+Based on FreeBSD
 ================
-MirOS BSD   (waiting reply)         https://www.mirbsd.org/                 #42c754
+HardenedBSD (waiting reply)         https://hardenedbsd.org/
+NextBSD
+JabirBSD
+
+
+Based on OpenBSD
+================
+LibertyBSD
