@@ -13,15 +13,17 @@ Change to .tar.xz (better compression, new standard)?
 
 Add:
 ====
+MaheshaBSD      http://www.freebsd.nfo.sk/maheshaeng.htm
 
 
 Based on FreeBSD
 ================
-HardenedBSD (waiting reply)         https://hardenedbsd.org/
-NextBSD
-JabirBSD
+NextBSD         https://github.com/nextbsd
+JabirBSD        http://jabirproject.org/
+JunoOS          https://en.wikipedia.org/wiki/Junos_OS
 
 
 Based on OpenBSD
 ================
-LibertyBSD
+LibertyBSD      http://libertybsd.net/
+AdJ             https://github.com/pasosdeJesus/adJ
