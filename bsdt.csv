@@ -33,7 +33,7 @@
 "N","t1n1wall","#218a21","m0n0wall","2015.09.1",,"images/t1n1wall-icon.png","http://t1n1wall.com/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","SmallWall","#521ebb","m0n0wall","2015.06.9",,"images/smallwall-icon.png","http://smallwall.org/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","DragonFly BSD","#ed1C24","FreeBSD","2004.07.12",,"images/dragonfly-icon.png","http://www.dragonflybsd.org/",2,"2008.07.21","https://www.dragonflybsd.org/release20/",3,"2012.02.22","https://www.dragonflybsd.org/release30/",4,"2014.11.23","https://www.dragonflybsd.org/release40/",,,,,,,,,,,,,,,,,,,,,
-"N","DesktopBSD","#b50000","FreeBSD","2005.11.26","2010.06.8","images/desktopbsd-icon.png","http://desktopbsd.net/","#http://www.osnews.com/story/21628/DesktopBSD_Development_Comes_to_a_Halt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"N","DesktopBSD","#b50000","FreeBSD","2005.07.25","2010.06.8","images/desktopbsd-icon.png","http://desktopbsd.net/","#http://www.osnews.com/story/21628/DesktopBSD_Development_Comes_to_a_Halt",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","FreeNAS","#797a7e","FreeBSD","2005.10",,"images/freenas-icon.png","http://www.freenas.org/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","TrueNAS","#797a7e","FreeNAS","2011.08.3",,"images/truenas-icon.png","https://www.ixsystems.com/truenas/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","PC-BSD","#b00","FreeBSD","2006.04.28",,"images/pcbsd-icon.png","http://www.pcbsd.org/",7,"2008.09.16","http://www.pcbsd.org/content/view/28/11/",8,"2010.02.23","http://www.pcbsd.org/content/view/150/11/",9,"2012.01.13","https://blog.pcbsd.org/2012/01/pc-bsd-9-0-released/",10,"2014.01.29","https://blog.pcbsd.org/2014/01/pc-bsd-10-0-release-is-now-available/","TrueOS","2016.09.1","https://www.trueos.org/2016/09/01/pc-bsd-evolves-into-trueos/",,,,,,,,,,,,,,,
