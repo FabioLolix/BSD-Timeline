@@ -3,6 +3,20 @@ Berkeley Software Distribution Timeline | NOTE
 
 #Release version
 
+BSDRP, FreeNAS, Nas4Free
+========================
+Email from Olivier
+
+> The first release of BSDRP was the 0.1, announced 2009/07/03:
+> 
+> https://sourceforge.net/p/bsdrp/mailman/bsdrp-announce/?viewmonth=200907&viewday=3
+> ​
+> And because I'm the FreeNAS author too:
+> - FreeNAS is a direct fork of m0n0wall (not FreeBSD);
+> - NAS4Free a «legacy fork» of FreeNAS (not FreeBSD): technically, FreeNAS was totally re-written, but some prefer the legacy branch and kept to maintaint in with the new name of NAS4Free.
+> - OpenNAS (https://www.open-nas.com/ or https://github.com/FactorFX/OpenNAS/releases): Like NAS4Free, it's a «legacy fork» of FreeNAS
+
+
 Fugulta
 =======
 Email from Y. K.
