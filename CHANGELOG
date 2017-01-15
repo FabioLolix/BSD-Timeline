@@ -2,9 +2,10 @@ Berkeley Software Distribution Timeline | CHANGELOG
 ===================================================
 
 Next (TBD)
-* Total: 22
+* Total: 23
 * Added: MidnightBSD, FreeNAS, NAS4Free, pfSense, TrueNAS, Fugulta
 * Added: BSD Router Project, SmallWall, t1n1wall, RaspBSD, MirOS
+* Added: OpenNAS
 
 16.12 (2016-12-25)
 * Total: 11
