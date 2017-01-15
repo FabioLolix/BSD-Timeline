@@ -3,9 +3,9 @@ Berkeley Software Distribution Timeline | NOTE
 
 #Release version
 
-BSDRP, FreeNAS, Nas4Free
+BSDRP, FreeNAS, NAS4Free
 ========================
-Email from Olivier
+Email from Olivier C.
 
 > The first release of BSDRP was the 0.1, announced 2009/07/03:
 > 
@@ -27,6 +27,24 @@ Email from Y. K.
 > Then it was renamed as "FuguIta 4.0" at 25-Oct-2006.
 >
 > See http://mirror.ginzado.ne.jp/pub/FuguIta/old/
+
+
+HardnedBSD
+==========
+Email from Oliver P.
+
+> That's a hard question. We moving together with FreeBSD's -STABLE and
+> -CURRENT branches, and we not yet released a release release.
+> 
+> But we periodically issuing stable releases from -STABLE branches,
+> currently from 10-STABLE and from 11-STABLE, and once 12-CURRENT comes
+> closer to its release date them we issuing a tagged version from
+> -CURRENT again.
+> 
+> This is our first tagged version from -CURRENT:
+> https://github.com/HardenedBSD/hardenedBSD-stable/releases/tag/hardenedbsd-master-20140908-1
+> and this one is from -STABLE:
+> https://github.com/HardenedBSD/hardenedBSD-stable/releases/tag/HardenedBSD-10-STABLE-v23
 
 
 MidnightBSD

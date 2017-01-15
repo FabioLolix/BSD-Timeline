@@ -42,6 +42,7 @@
 "N","MidnightBSD","#0e1d2c","FreeBSD","2007.08.6",,"images/midnightbsd-icon.png","https://www.midnightbsd.org/","0.2.1","2008.09.01","https://www.midnightbsd.org/notes/0.2/index.html",0.3,"2010.01.29","https://www.midnightbsd.org/notes/0.3/index.html",0.4,"2013.07.04","https://www.midnightbsd.org/notes/0.4/index.html",0.5,"2014.09.22","https://www.midnightbsd.org/notes/0.5/index.html",0.6,"2015.04.26","https://www.midnightbsd.org/notes/0.6/index.html",0.7,"2015.09.19","https://www.midnightbsd.org/notes/0.7/index.html",0.8,"2016.08.14","https://www.midnightbsd.org/notes/"
 "N","BSD Router Project","#ff0000","FreeBSD","2009.07.03",,"images/bsdrp-icon.png","https://bsdrp.net/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","GhostBSD","#00abbd","FreeBSD","2010.03",,"images/ghostbsd-icon.png","http://www.ghostbsd.org/",2,"2011.03.13",,3,"2013.03.10",,4,"2014.10.4",,"10.01","2015.09.12",,,,,,,,,,,,,,,,,,,
+"N","HardnedBSD","#2fbef2","FreeBSD","2014.09.8",,"images/hardnedbsd-icon.png","https://hardenedbsd.org/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","RaspBSD","#900","FreeBSD","2015.08.18",,,"http://www.raspbsd.org/#",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","OpenBSD","#ffff67","NetBSD","1995.10",,"images/openbsd-icon.png","http://www.openbsd.org/",2,"1996.10","http://openbsd.monkey.org/announce/199610/msg00001.html",3,"2001.11.27","http://www.openbsd.org/30.html",4,"2006.11.1","http://www.openbsd.org/40.html",5,"2011.11.01","https://www.openbsd.org/50.html",6,"2016.09.1","https://www.openbsd.org/60.html",,,,,,,,,,,,,,,
