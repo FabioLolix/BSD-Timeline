@@ -10,7 +10,7 @@ Original source: http://futurist.se/gldt/2010/09/20/bsd-timeline-up-for-grabs/
 
 https://github.com/FabioLolix/BSD-timeline
 
-##CONTRIBUTING
+#### CONTRIBUTING
 
 See CONTRIBUTING
 
