@@ -2,19 +2,19 @@ Berkeley Software Distribution Timeline | README
 ------------------------------------------------
 
 * Copyright (C) 2010 Donjan Rodic
-* Copyright (C) 2016-2017 Fabio Loli
+* Copyright (C) 2016-2017 Fabio Loli & contributors
 
 Released under a BSD 2-clause like license as found in the LICENSE file
 
 Original source: http://futurist.se/gldt/2010/09/20/bsd-timeline-up-for-grabs/
 
-https://github.com/FabioLolix/BSD-timeline
+Current source: https://github.com/FabioLolix/BSD-timeline
 
-#### CONTRIBUTING
+### CONTRIBUTING
 
-See CONTRIBUTING
+See [CONTRIBUTING](https://github.com/FabioLolix/BSD-Timeline/blob/master/CONTRIBUTING)
 
-#### Installation
+### Installation
 
 If you want to build your own version, make sure you have gnuclad
 installed.
@@ -28,4 +28,4 @@ After you have installed gnuclad, to build just the svg, run:
     gnuclad bsdt.csv SVG bsdt.conf
 
 You can run the script `build.sh` to build the svg, png, and the tarball
-containing the source.
+containing the source, Inkscape is required to convert from svg to png.
