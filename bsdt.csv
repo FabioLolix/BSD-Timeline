@@ -44,6 +44,7 @@
 "N","GhostBSD","#00abbd","FreeBSD","2010.03",,"images/ghostbsd-icon.png","http://www.ghostbsd.org/",2,"2011.03.13",,3,"2013.03.10",,4,"2014.10.4",,"10.01","2015.09.12",,,,,,,,,,,,,,,,,,,
 "N","HardnedBSD","#2fbef2","FreeBSD","2014.09.8",,"images/hardnedbsd-icon.png","https://hardenedbsd.org/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","RaspBSD","#900","FreeBSD","2015.08.18",,,"http://www.raspbsd.org/#",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"N","Openserver 10","#0585c6","FreeBSD","2016.01.22",,,"https://www.xinuos.com/menu-products/openserver-10",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","OpenBSD","#ffff67","NetBSD","1995.10",,"images/openbsd-icon.png","http://www.openbsd.org/",2,"1996.10","http://openbsd.monkey.org/announce/199610/msg00001.html",3,"2001.11.27","http://www.openbsd.org/30.html",4,"2006.11.1","http://www.openbsd.org/40.html",5,"2011.11.01","https://www.openbsd.org/50.html",6,"2016.09.1","https://www.openbsd.org/60.html",,,,,,,,,,,,,,,
 "N","MirOS","#42c754","OpenBSD","2002.08.29",,"images/miros-icon.png","https://www.mirbsd.org/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,                      
