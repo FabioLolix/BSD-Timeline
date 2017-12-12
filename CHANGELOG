@@ -3,6 +3,7 @@ Berkeley Software Distribution Timeline | CHANGELOG
 
 Next (TBD)
 * Added: OpenServer
+* Added: OPNsense (thanks to Franco Fichtner)
 * Added: release versions for FreeNAS, DragonflyBSD
 
 17.01 (2017-01-15)
