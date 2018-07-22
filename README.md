@@ -29,3 +29,21 @@ After you have installed gnuclad, to build just the svg, run:
 
 You can run the script `build.sh` to build the svg, png, and the tarball
 containing the source, Inkscape is required to convert from svg to png.
+
+### Releated resources
+
+https://www.levenez.com/unix/
+
+https://distrowatch.com/
+
+https://archiveos.org/bsd/
+
+https://github.com/DiscoverBSD/awesome-bsd
+
+https://github.com/sirredbeard/Awesome-UNIX
+
+https://github.com/freebsd/freebsd/blob/master/share/misc/bsd-family-tree
+
+https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html
+
+http://en.wikipedia.org/wiki/List_of_BSD_operating_systems
