@@ -2,7 +2,7 @@ Berkeley Software Distribution Timeline | README
 ------------------------------------------------
 
 * Copyright (C) 2010 Donjan Rodic
-* Copyright (C) 2016-2017 Fabio Loli & contributors
+* Copyright (C) 2016-2018 Fabio Loli
 
 Released under a BSD 2-clause like license as found in the LICENSE file
 
