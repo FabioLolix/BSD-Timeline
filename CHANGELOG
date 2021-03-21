@@ -6,6 +6,7 @@ Next (TBD)
 * Added: OPNsense (thanks to Franco Fichtner)
 * Added: releases for FreeNAS, DragonflyBSD, MirOS, OPNsense, GhostBSD
 * Discontinued: OpenNAS
+* Renamed: NAS4Free to XigmaNAS
 
 17.01 (2017-01-15)
 * Total: 24

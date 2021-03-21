@@ -31,7 +31,7 @@
 "N","m0n0wall","#435370","FreeBSD","2004.02.15","2016.02.15","images/m0n0wall-icon.png","http://m0n0.ch/wall/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","FreeNAS","#343434","m0n0wall","2005.10",,"images/freenas-icon.png","http://www.freenas.org/","0.65","2006.04.06","http://www.freenas.org/","0.7","2009.11.07","http://www.freenas.org/","8.0","2011.05.02","http://www.freenas.org/","9.1.0","2013.08.03","http://www.freenas.org/","Corral","2017.01.13","http://download.freenas.org/","11","2017.06.14","http://www.freenas.org/blog/freenas-11-0/",,,,,,,,,,,,,,,,,,,,,,,,
 "N","TrueNAS","#343434","FreeNAS","2011.08.3",,"images/truenas-icon.png","https://www.ixsystems.com/truenas/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"N","NAS4Free","#9aa0ac","FreeNAS","2012.03.22",,"images/nas4free-icon.png","http://www.nas4free.org/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"N","NAS4Free","#9aa0ac","FreeNAS","2012.03.22",,"images/nas4free-icon.png","https://www.xigmanas.com/","XigmaNAS","2018.07.17","https://www.xigmanas.com/",,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","OpenNAS","#fe892d","FreeNAS","2014.10.23","2017.07.24","images/openas-icon.png","https://www.open-nas.com/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","pfSense","#004e45","m0n0wall","2006.10.14",,"images/pfsense-icon.png","https://www.pfsense.org/",,,,"2.0 ","2011.09.17","http://blog.pfsense.org/?p=598",,,,,,,,,,,,,,,,,,,,,,,,
 "N","t1n1wall","#218a21","m0n0wall","2015.09.1",,"images/t1n1wall-icon.png","http://t1n1wall.com/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
