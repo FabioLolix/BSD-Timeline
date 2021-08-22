@@ -2,9 +2,9 @@ Berkeley Software Distribution Timeline | CHANGELOG
 ===================================================
 
 Next (TBD)
-* Added: OpenServer
 * Added: OPNsense (thanks to Franco Fichtner)
 * Added: releases for FreeNAS, DragonflyBSD, MirOS, OPNsense, GhostBSD
+* Blacklisted: RaspBSD, SmallWall, TrueNAS
 * Discontinued: OpenNAS,  MirOS
 * Renamed: NAS4Free to XigmaNAS
 
