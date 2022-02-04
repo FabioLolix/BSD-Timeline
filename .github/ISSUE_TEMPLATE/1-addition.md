@@ -1,6 +1,6 @@
 ---
-name: Add a Linux distribution
-about: For new Linux distro, submit an issue here
+name: Add a BSD system
+about: For new BSD system, submit an issue here
 ---
 
 Will be added **ONLY**  distributions that have a fullfilled page at the [info archive](https://distroware.gitlab.io/) 
