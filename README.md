@@ -19,7 +19,13 @@ See [CONTRIBUTING](https://github.com/FabioLolix/BSD-Timeline/blob/master/CONTRI
 If you want to build your own version, make sure you have gnuclad
 installed.
 
-To install gnuclad, you can download it at https://launchpad.net/gnuclad
+To install gnuclad, you can download the source at:
+
+https://github.com/FabioLolix/gnuclad/archive/refs/tags/0.2.4.p1.tar.gz
+
+or the original source at:
+
+https://launchpad.net/gnuclad/trunk/0.2/+download/gnuclad-0.2.4.tar.gz
 
 For Arch users, use the AUR: https://aur.archlinux.org/packages/gnuclad/
 
@@ -28,7 +34,7 @@ After you have installed gnuclad, to build just the svg, run:
     gnuclad bsdt.csv SVG bsdt.conf
 
 You can run the script `build.sh` to build the svg, png, and the tarball
-containing the source, Inkscape is required to convert from svg to png.
+containing the source, ImageMagick is required to convert from svg to png.
 
 ### Releated resources
 
