@@ -6,7 +6,7 @@ Berkeley Software Distribution Timeline | README
 
 Released under a BSD 2-clause like license as found in the LICENSE file
 
-Original source: http://futurist.se/gldt/2010/09/20/bsd-timeline-up-for-grabs/
+Original source: https://futurist.se/gldt/2010/09/20/bsd-timeline-up-for-grabs/
 
 Current source: https://github.com/FabioLolix/BSD-timeline
 
@@ -52,4 +52,4 @@ https://github.com/freebsd/freebsd/blob/master/share/misc/bsd-family-tree
 
 https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html
 
-http://en.wikipedia.org/wiki/List_of_BSD_operating_systems
+https://en.wikipedia.org/wiki/List_of_BSD_operating_systems
