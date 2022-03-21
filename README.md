@@ -96,6 +96,11 @@ containing the source, ImageMagick is required to convert from SVG to PNG.
   formerly known as ArchBSD
 
 
+* NextBSD
+
+  Short lived fork of FreeBSD with components ported from Darwin/OSX
+
+
 * SmallWall 2016.06.23 (last release)
 
 
@@ -118,6 +123,9 @@ containing the source, ImageMagick is required to convert from SVG to PNG.
 * DesktopBSD 2009.09.07 (last release)
 
 
+* Project Trident
+
+
 * LibertyBSD
 
 
@@ -128,25 +136,43 @@ containing the source, ImageMagick is required to convert from SVG to PNG.
 
 * t1n1wall 2015.09.1
 
+  Fork of m0n0wall discontinuosly developed, release have been based on FreeBSD 8 and 11 as of early 2022 (13 stable)
+
+
 * OS108
+
 
 * helloSystem
 
+
 * airyx
+
 
 * NomadBSD
 
-* NextBSD
 
-* retroBSD
+* RetroBSD
+
+  Port of 2.11BSD Unix for microcontrollers
+
 
 * hyperbolabsd
 
-* edgebsd
+
+* EdgeBSD
+
 
 * clonOS
 
+
 * cheriBSD
+
+* ZRouter
+
+
+## Other
+
+* isotop
 
 
 ### Releated resources
