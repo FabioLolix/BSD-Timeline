@@ -33,7 +33,7 @@
 "##N","TrueNAS","#343434","FreeNAS","2011.08.3",,"images/truenas-icon.png","https://www.ixsystems.com/truenas/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","NAS4Free","#9aa0ac","FreeNAS","2012.03.22",,"images/nas4free-icon.png","https://www.xigmanas.com/","XigmaNAS","2018.07.17","https://www.xigmanas.com/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "#N","OpenNAS","#fe892d","FreeNAS","2014.10.23","2017.07.24","images/openas-icon.png","https://www.open-nas.com/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"N","pfSense","#2A78BE","m0n0wall","2006.10.14",,"images/pfsense-icon.png","https://www.pfsense.org/",,,,"2.0 ","2011.09.17","http://blog.pfsense.org/?p=598",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"N","pfSense","#2A78BE","m0n0wall","2006.10.14",,"images/pfsense-icon.png","https://distroware.gitlab.io/os/BSD/p/pfsense/","1.2","2008.02.25",,"2.0","2011.09.17",,"2.1","2013.09.15",,"2.2","2015.01.23",,"pfSense CE 2.3","2016.04.12",,"2.4","2017.10.12",,"2.5","2021.02.17",,"2.6","2022.02.14",,,,,,,,,,,,,
 "#N","t1n1wall","#218a21","m0n0wall","2015.09.1",,"images/t1n1wall-icon.png","http://t1n1wall.com/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "#N","SmallWall","#521ebb","m0n0wall","2015.06.9","2017.06.23","images/smallwall-icon.png","http://smallwall.org/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "N","DragonFly BSD","#ed1C24","FreeBSD","2004.07.12",,"images/dragonfly-icon.png","http://www.dragonflybsd.org/",2,"2008.07.21","https://www.dragonflybsd.org/release20/",3,"2012.02.22","https://www.dragonflybsd.org/release30/",4,"2014.11.23","https://www.dragonflybsd.org/release40/",5,"2017.10.16","https://www.dragonflybsd.org/release50/",6,"2021.10.05","https://www.dragonflybsd.org/release60/",,,,,,,,,,,,,,,,,,,,,
