@@ -149,6 +149,9 @@ Current focus is on modern, open and actively developed ones.
 * **irBSD**
 
 
+* **comixwall**
+
+
 ## New, waiting list
 
 * **t1n1wall** 2015.09.1
@@ -186,6 +189,9 @@ Current focus is on modern, open and actively developed ones.
 
 
 * **ZRouter**
+
+
+* **UTMFW**
 
 
 ## Commercial
