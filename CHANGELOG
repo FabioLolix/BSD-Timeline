@@ -4,9 +4,12 @@ Berkeley Software Distribution Timeline | CHANGELOG
 Next (TBD)
 * Added: OPNsense (thanks to Franco Fichtner)
 * Added: releases for FreeNAS, DragonflyBSD, MirOS, OPNsense, GhostBSD
-* Blacklisted: RaspBSD, SmallWall, TrueNAS
-* Discontinued: OpenNAS,  MirOS
+* Blacklisted: RaspBSD, SmallWall, OpenNAS (short lived)
+* Blacklisted: TrueNAS, OpenServer 10 (commercial proprietary)
+* Discontinued: MirOS, TrueOS
+* Renamed: FreeNAS to TrueNAS CORE
 * Renamed: NAS4Free to XigmaNAS
+* Renamed: pfSense to pfSense CE
 
 17.01 (2017-01-15)
 * Total: 24
