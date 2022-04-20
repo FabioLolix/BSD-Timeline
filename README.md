@@ -227,7 +227,7 @@ https://github.com/DiscoverBSD/awesome-bsd
 
 https://github.com/sirredbeard/Awesome-UNIX
 
-https://github.com/freebsd/freebsd/blob/master/share/misc/bsd-family-tree
+https://cgit.freebsd.org/src/tree/share/misc/bsd-family-tree
 
 https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html
 
