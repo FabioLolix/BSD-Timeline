@@ -229,6 +229,12 @@ https://github.com/sirredbeard/Awesome-UNIX
 
 https://cgit.freebsd.org/src/tree/share/misc/bsd-family-tree
 
+https://minnie.tuhs.org/Unix_History/index.html
+
+https://minnie.tuhs.org/cgi-bin/utree.pl
+
 https://www.spinellis.gr/pubs/jrnl/2016-EMPSE-unix-history/html/unix-history.html
 
-https://en.wikipedia.org/wiki/List_of_BSD_operating_systems
+* [Wikipedia](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems) - List of BSD operating systems
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems) - Comparison of BSD operating systems
