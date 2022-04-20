@@ -91,6 +91,11 @@ Current focus is on modern, open and actively developed ones.
 * **OPNsense** 2015.01.2
 
 
+* **t1n1wall** 2015.09.1
+
+  Fork of m0n0wall
+
+
 ## Discontinued
 
 * **FuryBSD** 2020.10.31 (announcement)
@@ -153,11 +158,6 @@ Current focus is on modern, open and actively developed ones.
 
 
 ## New, waiting list
-
-* **t1n1wall** 2015.09.1
-
-  Fork of m0n0wall discontinuosly developed, release have been based on FreeBSD 8 and 11 as of early 2022 (13 stable)
-
 
 * **OS108**
 
