@@ -3,7 +3,6 @@ Berkeley Software Distribution Timeline | CHANGELOG
 
 Next (TBD)
 * Added: OPNsense (thanks to Franco Fichtner)
-* Added: releases for FreeNAS, DragonflyBSD, MirOS, OPNsense, GhostBSD
 * Blacklisted: RaspBSD, SmallWall, OpenNAS (short lived)
 * Blacklisted: TrueNAS, OpenServer 10 (commercial proprietary)
 * Discontinued: MirOS, TrueOS
