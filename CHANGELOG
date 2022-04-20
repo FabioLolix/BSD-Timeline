@@ -1,7 +1,8 @@
 Berkeley Software Distribution Timeline | CHANGELOG
 ===================================================
 
-Next (TBD)
+22.04 (2022.04.20)
+* Total: 21
 * Added: OPNsense (thanks to Franco Fichtner)
 * Blacklisted: RaspBSD, SmallWall, OpenNAS (short lived)
 * Blacklisted: TrueNAS, OpenServer 10 (commercial proprietary)
