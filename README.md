@@ -105,7 +105,7 @@ Current focus is on modern, open and actively developed ones.
 
 * **RaspBSD** 2017.10.17 (last release)
 
-  Short lived FreeBSD builds for Raspberry Pi and other ARM biards
+  Short lived FreeBSD builds for Raspberry Pi and other ARM boards
 
 
 * **PacBSD** 2017.08.15 (last release)
