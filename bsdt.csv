@@ -49,7 +49,7 @@
 "#N","FuryBSD","#2688BC","FreeBSD","2019.10.24","2020.10.31",,"https://distroware.gitlab.io/os/BSD/f/furybsd/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "//N","helloSystem","#000","FreeBSD","2020.11.27",,,"https://distroware.gitlab.io/os/BSD/h/hellosystem/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"N","OpenBSD","#ffff67","NetBSD","1995.10",,"images/openbsd-icon.png","https://distroware.gitlab.io/os/BSD/o/openbsd/",2,"1996.10",,3,"2001.11.27",,4,"2006.11.1",,5,"2011.11.01",,6,"2016.09.1",,7,"2021.10.14",,,,,,,,,,,,,,,,,,,
+"N","OpenBSD","#ffff67","NetBSD","1995.10",,"images/openbsd-icon.png","https://distroware.gitlab.io/os/BSD/o/openbsd/",2,"1996.10",,3,"2001.11.27",,4,"2006.11.1",,5,"2011.11.01",,6,"2016.09.1",,7,"2021.10.14",,8,"2026.10.20",,,,,,,,,,,,,,,,
 "N","MirOS","#42c754","OpenBSD","2002.08.29","2019.01.17","images/miros-icon.png","https://distroware.gitlab.io/os/BSD/m/miros/","7","2003",,"8","2005.12.23",,"9","2006.06.25",,"10","2008.03.16",,,,,,,,,,,,,,,,,,,,,,,,,
 "N","CD-OpenBSD","#8cc6ff","OpenBSD","2005.02.21",,"images/fuguita-icon.png","https://distroware.gitlab.io/os/BSD/f/fuguita/","FuguIta","2006.10.25","https://distroware.gitlab.io/os/BSD/f/fuguita/",5,"2012.01.3",,6,"2016.09.25",,7,"2021.11.01",,,,,,,,,,,,,,,,,,,,,,,,,
 "#N","Bitrig","0D7340","OpenBSD","2014.11.25","2015.11.25",,"https://distroware.gitlab.io/os/BSD/b/bitrig/",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
